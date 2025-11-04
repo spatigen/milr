@@ -12,7 +12,7 @@
 [**Ying Nian Wu**](https://scholar.google.com/citations?user=7k_1QFIAAAAJ&hl=en),
 [**Qing Li**](https://liqing.io/)
 
-[\[🌐 Project Page\]](https://milr-paper.github.io/) [\[📜 Paper\]](https://www.arxiv.org/abs/2509.22761)
+[\[🌐 Project Page\]](https://spatigen.github.io/milr.io/) [\[📜 Paper\]](https://www.arxiv.org/abs/2509.22761)
 </div>
 
 ![teaser map](fig/teaser.png)
