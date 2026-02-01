@@ -1,4 +1,4 @@
-# MILR: Improving Multimodal Image Generation via Test-Time Latent Reasoning
+# MILR: Improving Multimodal Image Generation via Test-Time Latent Reasoning ⚡️ICLR 2026
 
 <div align="center">
 
@@ -12,7 +12,9 @@
 [**Ying Nian Wu**](https://scholar.google.com/citations?user=7k_1QFIAAAAJ&hl=en),
 [**Qing Li**](https://liqing.io/)
 
-[\[🌐 Project Page\]](https://spatigen.github.io/milr.io/) [\[📜 Paper\]](https://www.arxiv.org/abs/2509.22761)
+[![arXiv](https://img.shields.io/badge/arXiv-2509.22761-b31b1b.svg)](https://www.arxiv.org/abs/2509.22761)
+[![Project Page](https://img.shields.io/badge/Project-Page-2ea44f)](https://spatigen.github.io/milr.io/)
+[![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://www.arxiv.org/pdf/2509.22761)
 </div>
 
 ![teaser map](fig/teaser.png)
